@@ -175,6 +175,8 @@ You can make your emails comply with [Domain-based Message Authentication, Repor
 
 You can configure your environments with email addresses that you wish to use to send emails by using the Communication Services Console. 
 
+{{% alert type="info" %}}For paid subscriptions customers can configure upto 5 from email addresses and for trial subscriptions customers can configure at most 1 from email address.{{% /alert %}}
+
 ![cs-console](attachments/email-service/cs-console.png)
 
 You can use the **Email ID** text input box to provide sender's email address. 
